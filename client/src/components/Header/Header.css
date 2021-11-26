@@ -1,0 +1,15 @@
+.header__wrapper {
+  display: flex;
+  align-items: center;
+  height: 85px;
+  color: rgb(236, 240, 250);
+  background-color: rgb(144, 167, 231);
+}
+
+.header__logo {
+  margin-left: 35px;
+}
+
+.app-title {
+  margin-left: 2%;
+}
